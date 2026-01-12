@@ -1,0 +1,5 @@
+name "GEO11 auto fileset"
+vers "01"
+rrid "NS"
+repo "track"
+file "NS.01521.80045.subdiv" size=391264 md5=6961cde4a981e6337e87d5cf71bb1271

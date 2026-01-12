@@ -1,0 +1,5 @@
+name "GEO6 auto fileset"
+vers "01"
+rrid "NS"
+repo "track"
+file "NS.07050.80035.subdiv" size=366912 md5=d0518baa1d5855192c50e3078daeca65

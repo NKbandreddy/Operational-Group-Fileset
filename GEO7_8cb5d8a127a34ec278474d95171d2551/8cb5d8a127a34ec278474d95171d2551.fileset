@@ -1,0 +1,5 @@
+name "GEO7 auto fileset"
+vers "01"
+rrid "NS"
+repo "track"
+file "NS.09043.70999.subdiv" size=384 md5=df00f00d6591ca6e2d5fa39b1ca3e4e1
