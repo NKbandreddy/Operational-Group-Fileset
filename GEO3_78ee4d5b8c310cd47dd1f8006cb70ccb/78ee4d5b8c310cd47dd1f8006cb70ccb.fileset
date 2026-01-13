@@ -1,0 +1,5 @@
+name "GEO3 auto fileset"
+vers "01"
+rrid "NS"
+repo "track"
+file "NS.05730.80094.subdiv" size=671324 md5=da236b4fc80e2086e748c8770a1de3e1

@@ -1,0 +1,5 @@
+name "GEO10 auto fileset"
+vers "01"
+rrid "NS"
+repo "track"
+file "NS.02460.80047.subdiv" size=528158 md5=f08399dd80c7c85c31dbe8c0dc0070b7

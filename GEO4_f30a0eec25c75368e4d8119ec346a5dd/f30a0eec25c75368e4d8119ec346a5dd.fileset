@@ -1,0 +1,5 @@
+name "GEO4 auto fileset"
+vers "01"
+rrid "NS"
+repo "track"
+file "NS.05420.80042.subdiv" size=885642 md5=faf56ef136aea3282c96699433be6da0
